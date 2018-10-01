@@ -1,2 +1,1 @@
-# datawrapper
-Adventures in Datawrapper
+# Datawrapper Tutorials
